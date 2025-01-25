@@ -21,11 +21,11 @@ docker compose -f <VELD_NAME>.yaml up
 
 ## contained code velds
 
-**[./veldREPLACE](./veldREPLACE)** 
+**[./veldREPLACE.yaml](./veldREPLACE.yaml)** 
 
 REPLACE
 
 ```
-docker compose -f veldREPLACE up
+docker compose -f veldREPLACE.yaml up
 ```
 
