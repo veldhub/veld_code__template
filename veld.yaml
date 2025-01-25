@@ -2,6 +2,7 @@ x-veld:
   code:
     description:
     topic:
+    additional:
 
     input:
       - volume: /veld/input/
